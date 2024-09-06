@@ -1,11 +1,11 @@
-# Traffic-Information-Service-for-the-Disabled
+# 타자 : 교통약자를 위한 대중교통 안내 서비스
 > 교통약자를 위한 저상버스 정보 안내, 지하철 편의설비 위치제공, 대중교통 길찾기 서비스
 
 ## 팀원
-- 세종대학교 전자정보통신공학과 [박상욱 (Backend)][9]
-- 세종대학교 컴퓨터공학과 [주이식 (Designer)][10]
-- 세종대학교 컴퓨터공학과 [류국봉 (DataBase)][11]
-- 세종대학교 컴퓨터공학과 [박규태 (Frontend)][12]
+- [박상욱 (Backend)][9]
+- [주이식 (Designer)][10]
+- [류국봉 (DataBase)][11]
+- [박규태 (Frontend)][12]
 
 ## 기능 소개
 - 저상버스 정보 안내
@@ -79,12 +79,6 @@
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
-
-## 참가 대회
-[2022 One-Prize 공모전 GOOD MOBILITY 솔루션 (장애 + 모빌리티 테마 부문 참가)][1]<br>
-2022 세종대학교 제 1회 소프트웨어융합대학 학술제 (장려상 수상)<br>
-2022 세종대학교 창의설계 경진대회<br>
-2023 세종대학교 제 10회 컴퓨터공학과 학술제
 
 ## 참고자료
 - [서울 버스 노선정보 공공 API][2]
